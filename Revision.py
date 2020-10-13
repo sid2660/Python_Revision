@@ -1844,15 +1844,15 @@
 
 ##### List Comprehension with if statement ---> Video 131
 
-# numbers = list(range(1,11))
-# print(numbers)
+numbers = list(range(1,11))
+print(numbers)
 
-## even nums
-# nums = []
-# for i in numbers:
-#    if i%2 ==0:
-#       nums.append(i)
-# print(nums)
+# even nums
+nums = []
+for i in numbers:
+   if i%2 ==0:
+      nums.append(i)
+print(nums)
 
 
 # ## 
